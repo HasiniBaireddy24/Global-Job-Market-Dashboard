@@ -1,0 +1,41 @@
+Role,Skill,Demand
+Data Analyst,python,12
+Data Analyst,sql,28
+Data Analyst,excel,24
+Data Analyst,power bi,19
+Data Analyst,tableau,5
+Data Analyst,aws,1
+Data Analyst,azure,3
+Data Analyst,machine learning,9
+Business Analyst,python,2
+Business Analyst,sql,7
+Business Analyst,excel,29
+Business Analyst,power bi,4
+Business Analyst,tableau,0
+Business Analyst,aws,4
+Business Analyst,azure,2
+Business Analyst,machine learning,0
+BI Analyst,python,8
+BI Analyst,sql,48
+BI Analyst,excel,19
+BI Analyst,power bi,49
+BI Analyst,tableau,14
+BI Analyst,aws,1
+BI Analyst,azure,6
+BI Analyst,machine learning,2
+Product Analyst,python,3
+Product Analyst,sql,7
+Product Analyst,excel,22
+Product Analyst,power bi,1
+Product Analyst,tableau,0
+Product Analyst,aws,2
+Product Analyst,azure,1
+Product Analyst,machine learning,2
+Data Scientist,python,39
+Data Scientist,sql,29
+Data Scientist,excel,16
+Data Scientist,power bi,1
+Data Scientist,tableau,0
+Data Scientist,aws,5
+Data Scientist,azure,8
+Data Scientist,machine learning,69
