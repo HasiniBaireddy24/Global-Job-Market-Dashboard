@@ -45,7 +45,6 @@ The dashboard provides insights into:
 ### Database
 
 * SQLite
-* SQLAlchemy
 
 ### Visualization
 
